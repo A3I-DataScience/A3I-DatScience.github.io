@@ -6,11 +6,7 @@ permalink: "/technology/"
 bodyClass: page-about
 ---
 
-
-
-
 Our team is fluent with the following Languages: 
-
 
 <table border=none>
  <tr>
@@ -33,9 +29,25 @@ Our team is fluent with the following Languages:
  </tr>
 </table>
 
+and works regularly with the following technologies: 
 
-
-
-works regularly with the following technologies: AWS, Docker,GitLab, GitHub, Jira, Jupyter, Redash, Couchbase, Hugging Face, OpenAi, ...
-
-and has proven track records for the following projects: Anomaly Detection, Forecasting, ETL, Data Visualisation, Data Annotation, Deep Learning, Time Series, Statistical Analysis, Genetic Algorithms, ...
+<table border=none>
+ <tr>
+    <td>AWS</td>
+    <td>Docker</td>
+    <td>GitHub</td>
+    <td>GitLab</td>
+ </tr>
+  <tr>
+    <td>Jira</td>
+    <td>Jupyter</td>
+    <td>Hugging Face</td>
+    <td>Linux</td>
+ </tr>
+  <tr>
+    <td>OpenAi</td>
+    <td> </td>
+    <td>Redash</td>
+    <td>Couchbase</td>
+ </tr>
+</table>
