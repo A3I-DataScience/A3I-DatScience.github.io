@@ -5,4 +5,4 @@ weight: 5
 ---
 
 
-You are the expert of your data and with the proper Data Annotation software we will transfer this expertise to your Machine Learning models.
+Leverage your domain expertise with the right Data Annotation tools to train accurate, high-quality Machine Learning models that reflect your business needs.
