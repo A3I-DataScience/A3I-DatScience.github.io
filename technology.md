@@ -7,7 +7,34 @@ bodyClass: page-about
 ---
 
 
-Our team is fluent with the following Languages: Python, SQL, SQL++, Mathlab, JavaScript, Java, VueJS,C, C++, C#, PHP, HTML, CSS, ...
+
+
+Our team is fluent with the following Languages: 
+
+
+<table border=none>
+ <tr>
+    <td>Python</td>
+    <td>SQL</td>
+    <td>SQL++</td>
+    <td>Mathlab</td>
+ </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Java</td>
+    <td>VueJS</td>
+    <td>C</td>
+ </tr>
+  <tr>
+    <td>C++</td>
+    <td>C#</td>
+    <td>PHP</td>
+    <td>CSS, HTML </td>
+ </tr>
+</table>
+
+
+
 
 works regularly with the following technologies: AWS, Docker,GitLab, GitHub, Jira, Jupyter, Redash, Couchbase, Hugging Face, OpenAi, ...
 
