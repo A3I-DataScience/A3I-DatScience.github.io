@@ -7,9 +7,10 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that follow the latest tech trends
+# Stay Ahead with Cutting-Edge Solutions
 
-We help you and your team embrace the latest technological transitions.
+We help your team leverage the latest technological advancements to stay competitive and innovative.
+
 
 
 

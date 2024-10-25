@@ -1,11 +1,9 @@
 ---
 title: Technology
-layout: about
+layout: page
 description: Technology
 permalink: "/technology/"
-intro_image: "images/illustrations/hands-on-laptop-2-small.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+bodyClass: page-about
 ---
 
 
