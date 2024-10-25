@@ -5,6 +5,9 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
+  - name: "Technology"
+    url: "/technology/"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
