@@ -46,7 +46,7 @@ and works regularly with the following technologies:
  </tr>
   <tr>
     <td>OpenAi</td>
-    <td> </td>
+    <td>GitPod</td>
     <td>Redash</td>
     <td>Couchbase</td>
  </tr>
