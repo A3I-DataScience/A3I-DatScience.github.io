@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "image": "images/social/github.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:contact@math-clais.ovh",
+      "image": "images/social/email.svg"
+  }
+]

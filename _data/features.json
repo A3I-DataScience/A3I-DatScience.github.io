@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Cost Effective",
+    "description": "Book a free assessment of your data stack and of your AI projects.",
+    "image": {
+      "url": "images/features/survey.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Full Data Stack Resources",
+    "description": "Our team can help you at any level of your data stack.",
+    "image": {
+      "url": "images/features/data-science.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Methodology",
+    "description": "Driven by CI/CD principles, we apply Agile Methodology with 2 weeks sprints to adapt to your requirements.",
+    "image": {
+      "url": "images/features/agile.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
