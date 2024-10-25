@@ -9,25 +9,6 @@ intro_image_hide_on_mobile: true
 
 # Stay Ahead with Cutting-Edge Solutions
 
-We help your team leverage the latest technological advancements to stay competitive and innovative in the following domains
-
-* Generative AI,
-* Anomaly Detection,
-* Forecasting,
-* ETL,
-* Data Visualisation,
-* Data Annotation,
-* Deep Learning,
-* Time Series,
-* Statistical Analysis,
-* Genetic Algorithms,
-* ...
-
-
-
-
-
-
-
+We help your team leverage the latest technological advancements to stay competitive and innovative.
 
 
