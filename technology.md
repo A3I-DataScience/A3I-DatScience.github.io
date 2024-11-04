@@ -6,14 +6,14 @@ permalink: "/technology/"
 bodyClass: page-about
 ---
 
-Our team is fluent with the following Languages: 
+Our team is proficient in a variety of programming languages, including:
 
-<table border=none>
+<table class="tech-table">
  <tr>
     <td>Python</td>
     <td>SQL</td>
     <td>SQL++</td>
-    <td>Mathlab</td>
+    <td>Matlab</td>
  </tr>
   <tr>
     <td>JavaScript</td>
@@ -29,9 +29,9 @@ Our team is fluent with the following Languages:
  </tr>
 </table>
 
-and works regularly with the following technologies: 
+We regularly utilize a range of technologies, such as:
 
-<table border=none>
+<table class="tech-table">
  <tr>
     <td>AWS</td>
     <td>Docker</td>
@@ -45,7 +45,7 @@ and works regularly with the following technologies:
     <td>Linux</td>
  </tr>
   <tr>
-    <td>OpenAi</td>
+    <td>OpenAI</td>
     <td>GitPod</td>
     <td>Redash</td>
     <td>Couchbase</td>
