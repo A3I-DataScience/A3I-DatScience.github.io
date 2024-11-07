@@ -10,4 +10,6 @@ show_call_box: true
 
 # A3I
 
-A3I is a quickly mobilisable team of AI & Data experts available to support your digital journey.
+A quickly mobilisable multidisciplinary team at the forefront of emerging technologies available to support your digital journey.
+
+With extensive expertise in leveraging AI, our team integrates human insight and machine intelligence to unlock hidden value in complex data sets. 
