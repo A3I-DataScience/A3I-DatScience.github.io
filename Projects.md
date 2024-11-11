@@ -2,6 +2,7 @@
 title: Projects
 layout: page
 description: Projects
+permalink: "/projects/"
 bodyClass: page-about
 ---
 
