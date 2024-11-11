@@ -2,15 +2,15 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
+#  - name: "Team"
+#    url: "/team/"
+#    weight: 3
   - name: "Technology"
     url: "/technology/"
     weight: 4
-  - name: "Projects"
-    url: "/projects/"
-    weight: 5
+#  - name: "Projects"
+#    url: "/projects/"
+#    weight: 5
   - name: "Contact"
     url: "/contact/"
     weight: 6
