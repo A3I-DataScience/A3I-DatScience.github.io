@@ -8,4 +8,6 @@ promoted: true
 weight: 1
 ---
 
-Ph.D in Mathematics with 10 years of experience in putting to life R&D projects using Machine Learning and AI.
+Antoine is a mathematician by training who has been working in the field of AI for the past 10 years and has been leading the data science activities of a London based energy monitoring startup since 2017.
+
+With a solid experience of building and leading product focused data team, Antoine will help you to define the roadmap your data project and will select the right profiles to achieve your goals. 

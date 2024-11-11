@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# A3I
+# A3I - Data Science
 
 A quickly mobilisable multidisciplinary team at the forefront of emerging technologies available to support your digital journey.
 
