@@ -1,4 +1,4 @@
-baseurl: '/A3I-DataScience'
+baseurl: '/'
 url: '/https://A3I-DataScience/A3I-DataScience.github.io'
 remote_theme: zerostaticthemes/jekyll-serif-theme
 permalink: pretty
