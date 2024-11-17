@@ -5,6 +5,9 @@ main:
 #  - name: "Team"
 #    url: "/team/"
 #    weight: 3
+  - name: "Projects"
+    url: "/projects/"
+    weight: 2
   - name: "Technology"
     url: "/technology/"
     weight: 4
