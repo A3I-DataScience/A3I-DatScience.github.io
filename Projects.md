@@ -6,10 +6,10 @@ permalink: "/projects/"
 bodyClass: page-about
 ---
 
-With, up to 10 years of experience in the field of AI, we have developed a wide range of projects that showcase our expertise in data science, machine learning, and AI.
+With, up to 10 years of experience in the field of AI, our team members have worked on a wide range of projects:
 
-# AI-Powered Chatbot for Sustainable and Personalized Diet Planning
-Our project leverages Retrieval-Augmented Generation (RAG), to develop an intelligent chatbot that delivers personalized diet plans. The code is open-source and available on [Github](https://github.com/A3I-DataScience/NutriBot).
+# Chatbot for Sustainable and Personalized Diet Planning
+Our project leverages Retrieval-Augmented Generation (RAG), to develop an intelligent chatbot that delivers personalized diet plans. The code is open-source and available on [Gitub](https://github.com/A3I-DataScience/NutriBot).
 
 
 ## Key Features:
@@ -18,20 +18,20 @@ Our project leverages Retrieval-Augmented Generation (RAG), to develop an intell
 - **Knowledge Base Integration**
 - **Nutritional Insights and Analysis**
 
-## Technology Stack:
+## Tech Stack:
 - **Retrieval-Augmented Generation (RAG)** (Python with LangChain and Open AI API's),
 - **Web App** (with HTML, JS, and Flask)
 
 
 # Interactive Dashboard for Data Annotation
-An active Learning framework built in Python suing AI to support complex annotation tasks of Time Series.
+An Active Learning framework built in Python using AI to support complex annotation tasks of timeseries.
 
 ## Key Features:
 - **Real-Time Data Interaction**
 - **Collaboration and User Management**
 - **Automated Annotation Suggestions** 
 
-## Technology Stack:
+## Tech Stack:
 - **Python** (Flask, Dash)
 - **Docker**
 
@@ -39,7 +39,7 @@ An active Learning framework built in Python suing AI to support complex annotat
 
 # Electric Appliance Usage Identification
 
-An AI-powered Electric Appliance Usage Identification algorithm to support households in their energy consumption reduction effort. 
+An AI-powered electric appliance usage identification algorithm to support households in their energy consumption reduction effort. 
 
 ## Key Features:
 
@@ -47,7 +47,7 @@ An AI-powered Electric Appliance Usage Identification algorithm to support house
  **Electrical Bill Insights**: Personalized suggestions to help reduce energy expenses.
 - **Energy Savings**: Up to 10% of energy savings can be achieved.
 - **Real-time Data Processing**
-## Technology Stack:
+## Tech Stack:
 
 - **Programming Language** (Python with Pandas, NumPy, Plotly, Keras,  TensorFlow),
 - **Machine Learning**: Binary Classifications (RandomForest, XGBOOST), Unsupervised Learning (MeanShift, DBSCAN), Deep Neural Network (LSTM).
