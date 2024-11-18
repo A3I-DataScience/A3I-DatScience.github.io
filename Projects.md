@@ -43,11 +43,10 @@ An AI-powered Electric Appliance Usage Identification algorithm to support house
 
 ## Key Features:
 
-- **Appliance Detection**: Accurately identifies different home appliances based on their electrical signatures, providing detailed reports and usage insights.
-- **Energy Consumption Analysis**: Monitors and breaks down energy usage per appliance to help homeowners optimize energy consumption and reduce utility costs.
-- **Electrical Bill Insights and Reduction Suggestions**: Provides detailed insights into the user's electrical bill and offers personalized suggestions to help reduce energy expenses.
-- **Real-time Data Processing**: Capable of processing and analyzing data in real-time for prompt feedback and reporting.
-
+- **Appliance Detection**: Based on electrical signatures, providing detailed reports and usage insights.
+ **Electrical Bill Insights**: Personalized suggestions to help reduce energy expenses.
+- **Energy Savings**: Up to 10% of energy savings can be achieved.
+- **Real-time Data Processing**
 ## Technology Stack:
 
 - **Programming Language** (Python with Pandas, NumPy, Plotly, Keras,  TensorFlow),
