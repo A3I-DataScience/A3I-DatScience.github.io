@@ -8,7 +8,7 @@ bodyClass: page-about
 
 With up to 10 years of experience in the field of AI, our team members have worked on a wide range of projects:
 
-# Chatbot for Sustainable and Personalized Diet Planning
+# CocinEco-Bot: an AI Assistant for Sustainable and Personalized Diet Planning
 Our project leverages Retrieval-Augmented Generation (RAG), to develop an intelligent chatbot that delivers personalized diet plans. The code is open-source and available on [Gitub](https://github.com/A3I-DataScience/NutriBot).
 
 
